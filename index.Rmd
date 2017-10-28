@@ -1,20 +1,11 @@
 ---
-title: "Holy cow!"
+title: "Qianshu Wang"
 ---
 
-### I have a webpage!
+<img src="images/sea.jpg" style="width:75%">
 
-And I can put all kinds of stuff on it!
+### Other things
 
-### Problem 1
-
-The GitHub repo containing our solution to this problem is [here](https://github.com/jeff-goldsmith/vbvs.concurrent).
-
-
-I like the [about page](about.html)
-
-### Here is a pic
+Here is my [resume](about.html)
 
 <img src="images/beagles.gif" style="width:50%">
-
-<img src="images/sea.jpg" style="width:75%">
