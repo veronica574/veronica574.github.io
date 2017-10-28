@@ -1,9 +1,42 @@
 ---
-title: "About"
+title: "Resume"
 ---
 
-### About this site
+# Veronica Wang
 
-Sometimes you need to say a bit about the site -- how it was made, where it's hosted, where the source code can be found. 
+## EDUCATION
 
-If this is for a project or analysis, I recommend giving some details about the R package versions that you used to create the content.
+Mailman School of Public Health, Columbia University, New York, NY
+
+Master of Science: Biostatistics: Theory and Methods Track
+
+Whitman College, Walla Walla, WA
+
+Bachelor of Arts: Major BBMB	Minor: Mathematics
+
+Honors in Course - Cum Laude
+Course works: Design and Analysis of Research Studies; Computational Problem Solving
+
+## EXPERIENCE
+### Undergraduate Research Assistant
+Whitman College, Walla Walla, WA
+
+- Administered experimental and theoretical studies to improve X-ray data of macromolecular crystals
+
+-	Collaborated with lab partner in data analysis of quantitative data and reported findings
+
+-	Presented the results at 2016 Northwest Crystallography workshop
+ 
+### Research Intern, Key Laboratory of Carbohydrate Chemistry and Biotechnology
+Jiangnan University, School of Biotechnology, Wuxi, China
+
+- Designed protocol for study on cytosolic N-glycosylation in yeast and identified the target gene mutant
+
+-	Managed time and tasks to complete yeast transformation for the target gene and three controls
+
+### Summer Research Intern
+China Center of Industrial Culture Collection, Beijing, China 
+
+- Cooperated with members in the physiological and biochemical team
+
+-	Performed experiments of bacteria and actinomycetes, drafted test reports, and analyzed morphological observation of bacteria and actinomycetes
