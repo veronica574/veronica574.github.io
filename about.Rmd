@@ -4,6 +4,8 @@ title: "Resume"
 
 # Veronica Wang
 
+<img src="images/beagles.gif" style="width:50%">
+
 ## EDUCATION
 
 Mailman School of Public Health, Columbia University, New York, NY
@@ -21,11 +23,11 @@ Course works: Design and Analysis of Research Studies; Computational Problem Sol
 ### Undergraduate Research Assistant
 Whitman College, Walla Walla, WA
 
-- Administered experimental and theoretical studies to improve X-ray data of macromolecular crystals
+* Administered experimental and theoretical studies to improve X-ray data of macromolecular crystals
 
--	Collaborated with lab partner in data analysis of quantitative data and reported findings
+*	Collaborated with lab partner in data analysis of quantitative data and reported findings
 
--	Presented the results at 2016 Northwest Crystallography workshop
+*	Presented the results at 2016 Northwest Crystallography workshop
  
 ### Research Intern, Key Laboratory of Carbohydrate Chemistry and Biotechnology
 Jiangnan University, School of Biotechnology, Wuxi, China
